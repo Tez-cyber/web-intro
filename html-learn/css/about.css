@@ -1,0 +1,30 @@
+.about_head {
+    background: red;
+    color: #fff;
+    font-size: 45px;
+}
+
+.about_text {
+    text-decoration: underline;
+    border: 2px solid brown;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.first_button, 
+.second_button {
+    border: 1px solid blue;
+    padding: 10px 40px;
+}
+
+.first_button {
+    background: burlywood;
+    color: blue;
+}
+
+.second_button {
+    background: transparent;
+    border-width: 4px;
+    border-radius: 10px;
+}
