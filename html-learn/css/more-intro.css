@@ -10,6 +10,7 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 10px 30px;
+    /* max-width: 900px; */
 }
 
 a {
@@ -22,4 +23,29 @@ ul .item {
     display: inline;
     margin: 0 20px;
     font-size: 18px
+}
+
+
+/* form */
+form {
+    border: 2px solid #000;
+    width: 500px;
+    margin: 40px auto;
+    padding: 40px 60px;
+}
+
+form label {
+    display: block;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+textarea {
+    margin-bottom: 20px;
+    width: 100%;
 }
