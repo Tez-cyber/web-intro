@@ -48,15 +48,19 @@ body {
     /* background-image: url("../assets/random.jpg"); */
     /* color: #fff; */
     /* background-color: #f3f4f6; */
-    background-position: center center;
+    /* background-position: center center;
     color: red;
     background-attachment: fixed;
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
+    background: url("../assets/random.jpg"); */
     background: url("../assets/random.jpg");
-    /* background: rgb(0, 0, 255) url("../assets/random.jpg") center top ; */
+    background-repeat: no-repeat;
+    width: 100%;
+    /* background-position: left; */
+    /* background-size: contain; */
     /* background-size: 400px 300px; */
 
 
